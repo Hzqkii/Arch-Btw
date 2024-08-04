@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Made by hybridkernel, this pack uses a GPL style license, you can use anything in this pack as long as you let anyone use anything in your pack (must add this description in your pack too)",
+        "name": "Arch Btw",
+        "uuid": "098416e4-517f-4bf7-a5ed-15f4901230f6",
+        "version": [0, 6, 1],
+        "min_engine_version": [ 1, 13, 0 ]
+    },
+    "modules": [
+        {
+            "description": "d",
+            "type": "resources",
+            "uuid": "7e840a7d-54c7-417d-840c-97f9a88e3249",
+            "version": [0, 0, 1]
+        }
+    ]
+}
